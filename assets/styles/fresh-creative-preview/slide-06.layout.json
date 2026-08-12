@@ -1,0 +1,354 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6cr732",
+    "id": "6cr732",
+    "slide": 6,
+    "layoutId": "4eefb9d0-478f-458f-888e-589711be757a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFF8F0",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4eefb9d0-478f-458f-888e-589711be757a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/poji1sja",
+      "id": "1",
+      "bbox": [
+        72,
+        100,
+        120,
+        130
+      ],
+      "geometry": "rect",
+      "text": "“",
+      "textPreview": "“",
+      "resolvedFontSize": 118,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 118,
+        "typeface": "+mn-lt",
+        "color": "#F5C451",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 118,
+            "color": "#F5C451",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“",
+              "fontSize": 118,
+              "color": "#F5C451",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lsz6d0j",
+      "id": "2",
+      "bbox": [
+        150,
+        176,
+        986,
+        270
+      ],
+      "geometry": "rect",
+      "text": "每一页只保留一个真正需要被记住的视觉中心。",
+      "textPreview": "每一页只保留一个真正需要被记住的视觉中心。",
+      "resolvedFontSize": 52,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 52,
+        "typeface": "+mn-lt",
+        "color": "#2A2430",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "每一页只保留一个真正需要被记住的视觉"
+          },
+          {
+            "index": 2,
+            "text": "中心。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "每一页只保留一个真正需要被记住的视觉中心。",
+          "lineSpacingPercent": 94000,
+          "resolvedTextStyle": {
+            "fontSize": 52,
+            "color": "#2A2430",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.94
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "每一页只保留一个真正需要被记住的视觉中心。",
+              "fontSize": 52,
+              "color": "#2A2430",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.94
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m10zi14",
+      "id": "3",
+      "bbox": [
+        154,
+        472,
+        84,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B5E",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cru1cnil",
+      "id": "4",
+      "bbox": [
+        258,
+        458,
+        876,
+        66
+      ],
+      "geometry": "rect",
+      "text": "LIULEI PPT · 视觉生成原则",
+      "textPreview": "LIULEI PPT · 视觉生成原则",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#756B78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LIULEI PPT · 视觉生成原则"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LIULEI PPT · 视觉生成原则",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#756B78",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LIULEI PPT · 视觉生成原则",
+              "fontSize": 25,
+              "color": "#756B78",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ds3i5sj6",
+      "id": "5",
+      "bbox": [
+        1174,
+        688,
+        34,
+        15
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#756B78",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#756B78",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 11,
+              "color": "#756B78",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

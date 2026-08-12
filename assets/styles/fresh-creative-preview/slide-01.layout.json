@@ -1,0 +1,418 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0jm6oz",
+    "id": "0jm6oz",
+    "slide": 1,
+    "layoutId": "4eefb9d0-478f-458f-888e-589711be757a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFF8F0",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "4eefb9d0-478f-458f-888e-589711be757a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "108e8b5f-5aa2-487e-98a3-46f54be9ab65",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1cr6xkv",
+      "id": "1",
+      "bbox": [
+        1056,
+        34,
+        142,
+        142
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#75D6C6",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/143a1c36",
+      "id": "2",
+      "bbox": [
+        1154,
+        118,
+        82,
+        82
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#F5C451",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03u9872l",
+      "id": "3",
+      "bbox": [
+        72,
+        82,
+        360,
+        26
+      ],
+      "geometry": "rect",
+      "text": "LIULEI PPT",
+      "textPreview": "LIULEI PPT",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#FF6B5E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LIULEI PPT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LIULEI PPT",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#FF6B5E",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LIULEI PPT",
+              "fontSize": 13,
+              "color": "#FF6B5E",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry18v2l4",
+      "id": "4",
+      "bbox": [
+        72,
+        170,
+        750,
+        210
+      ],
+      "geometry": "rect",
+      "text": "把零散材料变成有说服力的演示文稿",
+      "textPreview": "把零散材料变成有说服力的演示文稿",
+      "resolvedFontSize": 60,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 60,
+        "typeface": "+mn-lt",
+        "color": "#2A2430",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把零散材料变成有说服力的"
+          },
+          {
+            "index": 2,
+            "text": "演示文稿"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把零散材料变成有说服力的演示文稿",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 60,
+            "color": "#2A2430",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "把零散材料变成有说服力的演示文稿",
+              "fontSize": 60,
+              "color": "#2A2430",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxsr2xkj",
+      "id": "5",
+      "bbox": [
+        72,
+        408,
+        730,
+        100
+      ],
+      "geometry": "rect",
+      "text": "先理清叙事，再选择风格，最后交付可编辑 PPTX",
+      "textPreview": "先理清叙事，再选择风格，最后交付可编辑 PPTX",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#756B78",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "先理清叙事，再选择风格，最后交付可编辑 PPTX"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "先理清叙事，再选择风格，最后交付可编辑 PPTX",
+          "lineSpacingPercent": 118000,
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#756B78",
+            "alignment": "left",
+            "lineSpacing": 1.18
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "先理清叙事，再选择风格，最后交付可编辑 PPTX",
+              "fontSize": 25,
+              "color": "#756B78",
+              "alignment": "left",
+              "lineSpacing": 1.18
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d03qxc3a",
+      "id": "6",
+      "bbox": [
+        884,
+        170,
+        12,
+        340
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B5E",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cza9472p",
+      "id": "7",
+      "bbox": [
+        922,
+        290,
+        128,
+        220
+      ],
+      "geometry": "rect",
+      "fillColor": "#75D6C6",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3u18ril8",
+      "id": "8",
+      "bbox": [
+        1078,
+        376,
+        72,
+        134
+      ],
+      "geometry": "rect",
+      "fillColor": "#F5C451",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2tsryd4n",
+      "id": "9",
+      "bbox": [
+        1174,
+        688,
+        34,
+        15
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "color": "#756B78",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "color": "#756B78",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 1.08
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 11,
+              "color": "#756B78",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 1.08
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "fresh-creative",
+  "name": "清新创意",
+  "description": "KOKUBO 式蓝白编辑秩序为主，叠加 Nike 提案的透明材质与青绿黄能量色。",
+  "approvedDirection": "1+3",
+  "designReferences": [
+    "https://www.behance.net/gallery/239763575/Visual-and-Presentation-Design-for-KOKUBO",
+    "https://www.behance.net/gallery/175129775/Nike-pitch-deck-presentation-concept"
+  ],
+  "colors": {
+    "background": "#F7F5EF",
+    "surface": "#FFFFFF",
+    "text": "#151515",
+    "muted": "#73736E",
+    "primary": "#315BFF",
+    "secondary": "#58DFD5",
+    "accent": "#E5FF4A",
+    "border": "#D9D7D0"
+  },
+  "fonts": { "heading": "Arial", "body": "Arial" },
+  "type": { "deckTitle": 62, "slideTitle": 38, "subhead": 23, "body": 16, "caption": 9 },
+  "layout": { "marginX": 60, "marginTop": 46, "marginBottom": 42, "gutter": 26 },
+  "composition": {
+    "grid": "clean-editorial-stage",
+    "titleMode": "fresh-signal",
+    "mediaMode": "large-prismatic-object",
+    "density": "medium",
+    "dominantScale": 0.66,
+    "pageSilhouettes": ["prism-cover", "object-text-split", "blue-data-field", "icon-process"]
+  },
+  "assets": {
+    "photography": "bright studio compositions with paper geometry, translucent acrylic and clean shadows",
+    "icons": "custom geometric line icons with blue, cyan and lime accents",
+    "imagePromptStyle": "bright editorial studio still life, cobalt geometry, translucent cyan acrylic, lime refraction, warm white background"
+  },
+  "treatments": { "radius": 0, "motif": "prism-line", "chart": "electric-blue-lime", "table": "clean-editorial" },
+  "avoid": ["pastel blobs", "cute stickers", "coral-and-mint card grids", "busy Memphis decoration", "tiny colorful icons"]
+}
