@@ -1,0 +1,1504 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jyx0ra1s",
+    "id": "jyx0ra1s",
+    "slide": 4,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F7F6F0",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knex8j21",
+      "id": "32",
+      "bbox": [
+        54,
+        28,
+        160,
+        18
+      ],
+      "geometry": "rect",
+      "text": "LIULEI PPT",
+      "textPreview": "LIULEI PPT",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LIULEI PPT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LIULEI PPT",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 9,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LIULEI PPT",
+              "fontSize": 9,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cj2d8b6",
+      "id": "2",
+      "bbox": [
+        515,
+        28,
+        250,
+        18
+      ],
+      "geometry": "rect",
+      "text": "RHYTHM BEFORE SURPRISE",
+      "textPreview": "RHYTHM BEFORE SURPRISE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RHYTHM BEFORE SURPRISE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RHYTHM BEFORE SURPRISE",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 9,
+            "color": "#777875",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RHYTHM BEFORE SURPRISE",
+              "fontSize": 9,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ba143al",
+      "id": "3",
+      "bbox": [
+        1178,
+        28,
+        48,
+        18
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 9,
+            "color": "#777875",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 9,
+              "color": "#777875",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm1k7yt4",
+      "id": "4",
+      "name": "rhythm-title",
+      "bbox": [
+        54,
+        88,
+        520,
+        122
+      ],
+      "geometry": "rect",
+      "text": "先建立节奏，\n再加入惊喜",
+      "textPreview": "先建立节奏， | 再加入惊喜",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "先建立节奏，"
+          },
+          {
+            "index": 2,
+            "text": "再加入惊喜"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "先建立节奏，",
+          "lineSpacingPercent": 88000,
+          "resolvedTextStyle": {
+            "fontSize": 50,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "先建立节奏，",
+              "fontSize": 50,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "再加入惊喜",
+          "lineSpacingPercent": 88000,
+          "resolvedTextStyle": {
+            "fontSize": 50,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "再加入惊喜",
+              "fontSize": 50,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ql8jytsj",
+      "id": "5",
+      "bbox": [
+        688,
+        122,
+        490,
+        44
+      ],
+      "geometry": "rect",
+      "text": "四个动作，把信息从“能看懂”推向“记得住”。",
+      "textPreview": "四个动作，把信息从“能看懂”推向“记得住”。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四个动作，把信息从“能看懂”推向“记得住”。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四个动作，把信息从“能看懂”推向“记得住”。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#777875",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "四个动作，把信息从“能看懂”推向“记得住”。",
+              "fontSize": 17,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/doj29oba",
+      "id": "6",
+      "bbox": [
+        54,
+        252,
+        1172,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#DAD9D2",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sna103ap",
+      "id": "7",
+      "bbox": [
+        268,
+        360,
+        68,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F5BFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ihk3et8",
+      "id": "8",
+      "bbox": [
+        54,
+        294,
+        156,
+        156
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E7ECFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/61wbax4n",
+      "id": "33",
+      "bbox": [
+        81,
+        332.06,
+        102,
+        79.88
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 155501
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image3.png",
+        "contentType": "image/png",
+        "byteLength": 155501
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbm987y5",
+      "id": "10",
+      "bbox": [
+        54,
+        480,
+        42,
+        20
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#2F5BFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 10,
+              "color": "#2F5BFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cva1cfq",
+      "id": "11",
+      "bbox": [
+        54,
+        514,
+        230,
+        34
+      ],
+      "geometry": "rect",
+      "text": "捕捉信号",
+      "textPreview": "捕捉信号",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "捕捉信号"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "捕捉信号",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "捕捉信号",
+              "fontSize": 24,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i94r6xgz",
+      "id": "12",
+      "bbox": [
+        54,
+        568,
+        240,
+        48
+      ],
+      "geometry": "rect",
+      "text": "找到真正值得讲的变化",
+      "textPreview": "找到真正值得讲的变化",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "找到真正值得讲的变化"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "找到真正值得讲的变化",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#777875",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "找到真正值得讲的变化",
+              "fontSize": 13,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jadsz2xk",
+      "id": "13",
+      "bbox": [
+        560,
+        360,
+        68,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F5BFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w72947yt",
+      "id": "14",
+      "bbox": [
+        346,
+        294,
+        156,
+        156
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E7ECFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hs7u9c3a",
+      "id": "34",
+      "bbox": [
+        373,
+        322.4,
+        102,
+        99.2
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 105845
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image4.png",
+        "contentType": "image/png",
+        "byteLength": 105845
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5kr2xg3",
+      "id": "16",
+      "bbox": [
+        346,
+        480,
+        42,
+        20
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#2F5BFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 10,
+              "color": "#2F5BFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6tsv2xo",
+      "id": "17",
+      "bbox": [
+        346,
+        514,
+        230,
+        34
+      ],
+      "geometry": "rect",
+      "text": "建立路径",
+      "textPreview": "建立路径",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "建立路径"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "建立路径",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "建立路径",
+              "fontSize": 24,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g36tgryd",
+      "id": "18",
+      "bbox": [
+        346,
+        568,
+        240,
+        48
+      ],
+      "geometry": "rect",
+      "text": "让观点沿同一方向推进",
+      "textPreview": "让观点沿同一方向推进",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "让观点沿同一方向推进"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "让观点沿同一方向推进",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#777875",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让观点沿同一方向推进",
+              "fontSize": 13,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4fa9wfy",
+      "id": "19",
+      "bbox": [
+        852,
+        360,
+        68,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F5BFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0batw72",
+      "id": "20",
+      "bbox": [
+        638,
+        294,
+        156,
+        156
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E7ECFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/grytg7mp",
+      "id": "35",
+      "bbox": [
+        666.54,
+        322,
+        98.93,
+        100
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 200743
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image5.png",
+        "contentType": "image/png",
+        "byteLength": 200743
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ytsrmpw",
+      "id": "22",
+      "bbox": [
+        638,
+        480,
+        42,
+        20
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#2F5BFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 10,
+              "color": "#2F5BFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xkrih8b",
+      "id": "23",
+      "bbox": [
+        638,
+        514,
+        230,
+        34
+      ],
+      "geometry": "rect",
+      "text": "放大差异",
+      "textPreview": "放大差异",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "放大差异"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "放大差异",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "放大差异",
+              "fontSize": 24,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1wbapc7q",
+      "id": "24",
+      "bbox": [
+        638,
+        568,
+        240,
+        48
+      ],
+      "geometry": "rect",
+      "text": "用色彩与尺度拉开层级",
+      "textPreview": "用色彩与尺度拉开层级",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "用色彩与尺度拉开层级"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "用色彩与尺度拉开层级",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#777875",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用色彩与尺度拉开层级",
+              "fontSize": 13,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gv29g7q5",
+      "id": "25",
+      "bbox": [
+        930,
+        294,
+        156,
+        156
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#E8FF67",
+      "lineColor": "#E8FF67",
+      "lineWidth": 2
+    },
+    {
+      "order": 26,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fqps72l4",
+      "id": "36",
+      "bbox": [
+        957.11,
+        322,
+        101.79,
+        100
+      ],
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 101031
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image6.png",
+        "contentType": "image/png",
+        "byteLength": 101031
+      }
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et0reh8f",
+      "id": "27",
+      "bbox": [
+        930,
+        480,
+        42,
+        20
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "color": "#2F5BFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 10,
+              "color": "#2F5BFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsrqlc7u",
+      "id": "28",
+      "bbox": [
+        930,
+        514,
+        230,
+        34
+      ],
+      "geometry": "rect",
+      "text": "制造记忆",
+      "textPreview": "制造记忆",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "制造记忆"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "制造记忆",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "制造记忆",
+              "fontSize": 24,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sri9s7q9",
+      "id": "29",
+      "bbox": [
+        930,
+        568,
+        240,
+        48
+      ],
+      "geometry": "rect",
+      "text": "只在关键节点释放惊喜",
+      "textPreview": "只在关键节点释放惊喜",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "只在关键节点释放惊喜"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "只在关键节点释放惊喜",
+          "lineSpacingPercent": 112000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#777875",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "只在关键节点释放惊喜",
+              "fontSize": 13,
+              "color": "#777875"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ilwf69kv",
+      "id": "30",
+      "bbox": [
+        54,
+        662,
+        260,
+        5
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F5BFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm5gze1g",
+      "id": "31",
+      "bbox": [
+        338,
+        650,
+        520,
+        28
+      ],
+      "geometry": "rect",
+      "text": "CLARITY FIRST. ENERGY SECOND.",
+      "textPreview": "CLARITY FIRST. ENERGY SECOND.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CLARITY FIRST. ENERGY SECOND."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CLARITY FIRST. ENERGY SECOND.",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#101010",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CLARITY FIRST. ENERGY SECOND.",
+              "fontSize": 20,
+              "color": "#101010",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
