@@ -1,0 +1,90 @@
+{
+  "title": "LIULEI PPT layout test",
+  "subtitle": "English and 中文",
+  "audience": "Plugin maintainers",
+  "goal": "Exercise every supported layout with editable content",
+  "language": "bilingual",
+  "aspectRatio": "4:3",
+  "approved": true,
+  "sources": [
+    { "id": "sample", "label": "Bundled synthetic test data" }
+  ],
+  "slides": [
+    {
+      "layout": "title",
+      "role": "opening",
+      "eyebrow": "LAYOUT TEST",
+      "title": "One renderer supports different narrative jobs",
+      "body": "4:3 canvas · English and 中文"
+    },
+    {
+      "layout": "section",
+      "role": "transition",
+      "title": "Section slides create a deliberate pause",
+      "body": "章节页只承担一个清晰的过渡任务。"
+    },
+    {
+      "layout": "statement",
+      "role": "thesis",
+      "eyebrow": "KEY IDEA",
+      "title": "A slide should make one claim before it adds detail",
+      "body": "先给结论，再用证据解释为什么。"
+    },
+    {
+      "layout": "bullets",
+      "role": "explain",
+      "title": "Strong lists show sequence instead of inventory",
+      "bullets": [
+        "Define the audience and desired outcome",
+        "Build a cumulative narrative",
+        "Choose evidence that changes the conclusion",
+        "Design only after the content plan is approved"
+      ]
+    },
+    {
+      "layout": "two-column",
+      "role": "compare",
+      "title": "Strict reuse and style redraw solve different problems",
+      "leftTitle": "Strict reuse",
+      "leftBody": "Maximum fidelity\nInherited objects\nSource-slide mapping",
+      "rightTitle": "Style redraw",
+      "rightBody": "Flexible layouts\nExtracted design tokens\nApproximate visual language"
+    },
+    {
+      "layout": "chart",
+      "role": "evidence",
+      "title": "Charts remain editable after export",
+      "body": "Synthetic values for runtime validation",
+      "sourceRefs": ["sample"],
+      "chart": {
+        "type": "line",
+        "categories": ["Plan", "Draft", "QA", "Delivery"],
+        "series": [
+          { "name": "Quality", "values": [65, 78, 91, 96] },
+          { "name": "Confidence", "values": [55, 72, 88, 94] }
+        ]
+      }
+    },
+    {
+      "layout": "table",
+      "role": "reference",
+      "title": "Tables preserve the source structure",
+      "sourceRefs": ["sample"],
+      "table": {
+        "values": [
+          ["Mode", "Best for", "Output"],
+          ["Built-in", "Fast creation", "Editable PPTX"],
+          ["Strict", "Brand fidelity", "Inherited slides"],
+          ["Extracted", "New layouts", "Style profile"]
+        ]
+      }
+    },
+    {
+      "layout": "closing",
+      "role": "resolve",
+      "eyebrow": "ACCEPTANCE",
+      "title": "Every supported layout renders, exports, and reimports",
+      "body": "The final gate is visual inspection, not file creation alone."
+    }
+  ]
+}

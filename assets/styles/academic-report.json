@@ -1,0 +1,38 @@
+{
+  "id": "academic-report",
+  "name": "学术报告",
+  "description": "高饱和研究蓝与论文式信息层级，结合浅色科研模块、语义图标和科学三维隐喻。",
+  "approvedDirection": "3+4",
+  "designReferences": [
+    "https://www.behance.net/gallery/240774537/UX-Research-Research-Paper-Presentation",
+    "https://www.behance.net/gallery/205479125/Presentation-for-a-Scientific-Conference"
+  ],
+  "colors": {
+    "background": "#F6F3ED",
+    "surface": "#FFFFFF",
+    "text": "#171717",
+    "muted": "#6E6E69",
+    "primary": "#2850FF",
+    "secondary": "#DDE6FF",
+    "accent": "#FF694F",
+    "border": "#D7D3CA"
+  },
+  "fonts": { "heading": "Arial", "body": "Arial" },
+  "type": { "deckTitle": 60, "slideTitle": 36, "subhead": 22, "body": 16, "caption": 9 },
+  "layout": { "marginX": 58, "marginTop": 44, "marginBottom": 42, "gutter": 24 },
+  "composition": {
+    "grid": "research-paper-modular",
+    "titleMode": "method-led",
+    "mediaMode": "scientific-model",
+    "density": "medium-high",
+    "dominantScale": 0.64,
+    "pageSilhouettes": ["research-hero", "method-chain", "evidence-sidebar", "model-implications"]
+  },
+  "assets": {
+    "photography": "scientific 3D models, measured systems, neutral lab or urban-research imagery",
+    "icons": "semantic research icons in pale circular modules with blue connectors",
+    "imagePromptStyle": "clean scientific isometric model, white materials, blue measurement layers, coral heat or signal overlay, publication quality"
+  },
+  "treatments": { "radius": 0, "motif": "research-blue", "chart": "publication-blue", "table": "paper-ruled" },
+  "avoid": ["sepia thesis styling", "decorative serif everywhere", "unlabeled scientific imagery", "fake citations", "dense paragraphs"]
+}

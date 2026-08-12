@@ -1,0 +1,32 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "brand opening preserve-only",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 5,
+      "narrativeRole": "brand preserve-only",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 8,
+      "narrativeRole": "brand preserve-only",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    }
+  ],
+  "omittedSourceSlides": [
+    { "sourceSlide": 2, "reason": "not needed in the sample starter" },
+    { "sourceSlide": 3, "reason": "not needed in the sample starter" },
+    { "sourceSlide": 4, "reason": "not needed in the sample starter" },
+    { "sourceSlide": 6, "reason": "not needed in the sample starter" },
+    { "sourceSlide": 7, "reason": "not needed in the sample starter" }
+  ]
+}

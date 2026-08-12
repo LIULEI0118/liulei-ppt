@@ -1,0 +1,7 @@
+interface:
+  display_name: "LIULEI PPT"
+  short_description: "六种已定稿视觉系统，将材料生成专业且可编辑的 PPTX 文件"
+  icon_small: "./assets/ui/plugin-icon.png"
+  icon_large: "./assets/ui/plugin-icon.png"
+  brand_color: "#F04438"
+  default_prompt: "Use $liulei-ppt to turn my materials into an editable PPTX, show the six approved style previews, and ask me to approve the outline first."

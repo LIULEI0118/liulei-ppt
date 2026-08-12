@@ -1,0 +1,77 @@
+{"kind":"deck","id":"pr/w6lhvt","name":"Deck"}
+{"kind":"layout","layoutId":"85d20b21-90fd-45af-835c-911a29952993","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2852638d-1d86-458b-b000-2f64aa44318c","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ht1nch","slide":1,"title":"LIULEI PPT","textShapes":4}
+{"kind":"shape","id":"sh/yhc7up4n","slide":1,"bbox":[76,36,112,5]}
+{"kind":"textbox","id":"sh/lknq543y","slide":1,"text":"LIULEI PPT","textPreview":"LIULEI PPT","textChars":10,"textLines":1,"bbox":[76,86,360,26]}
+{"kind":"textbox","id":"sh/kje9wz2t","slide":1,"text":"把零散材料变成有说服力的演示文稿","textPreview":"把零散材料变成有说服力的演示文稿","textChars":16,"textLines":1,"bbox":[76,174,744,210]}
+{"kind":"textbox","id":"sh/7m587el4","slide":1,"text":"先理清叙事，再选择风格，最后交付可编辑 PPTX","textPreview":"先理清叙事，再选择风格，最后交付可编辑 PPTX","textChars":24,"textLines":1,"bbox":[76,412,724,100]}
+{"kind":"shape","id":"sh/mlwry9kj","slide":1,"bbox":[882,174,12,340]}
+{"kind":"shape","id":"sh/9onq9o3a","slide":1,"bbox":[920,294,128,220]}
+{"kind":"shape","id":"sh/8ne90j2p","slide":1,"bbox":[1076,380,72,134]}
+{"kind":"textbox","id":"sh/va58belg","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"notes","id":"nt/ht1nch","slide":1,"text":"说明演示目标和受众。"}
+{"kind":"slide","id":"sl/861vzi","slide":2,"title":"VISUAL SYSTEM","textShapes":4}
+{"kind":"shape","id":"sh/atc3ahcr","slide":2,"bbox":[76,36,68,5]}
+{"kind":"textbox","id":"sh/cvulcruh","slide":2,"text":"VISUAL SYSTEM","textPreview":"VISUAL SYSTEM","textChars":13,"textLines":1,"bbox":[76,134,441,24]}
+{"kind":"textbox","id":"sh/3q14z2d0","slide":2,"text":"风格不只是换色，而是重新组织画面","textPreview":"风格不只是换色，而是重新组织画面","textChars":16,"textLines":1,"bbox":[76,212,441,230]}
+{"kind":"textbox","id":"sh/2ps36xcf","slide":2,"text":"网格、主次、媒体尺度和页面节奏共同定义设计语言。","textPreview":"网格、主次、媒体尺度和页面节奏共同定义设计语言。","textChars":24,"textLines":1,"bbox":[76,472,441,110]}
+{"kind":"textbox","id":"sh/ps3m1cv6","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"image","id":"im/8fi5cfu9","slide":2,"name":"","geometry":"roundRect","alt":"LIULEI PPT 视觉标识","bbox":[589,0,691,720]}
+{"kind":"notes","id":"nt/861vzi","slide":2,"text":""}
+{"kind":"slide","id":"sl/s788qz","slide":3,"title":"VISUAL RHYTHM","textShapes":5}
+{"kind":"shape","id":"sh/dw7exk3e","slide":3,"bbox":[76,36,68,5]}
+{"kind":"textbox","id":"sh/qtwv2p4n","slide":3,"text":"VISUAL RHYTHM","textPreview":"VISUAL RHYTHM","textChars":13,"textLines":1,"bbox":[76,116,1128,26]}
+{"kind":"shape","id":"sh/ru5wvul8","slide":3,"bbox":[76,188,92,92]}
+{"kind":"textbox","id":"sh/psnetk32","slide":3,"text":"50–70%","textPreview":"50–70%","textChars":6,"textLines":1,"bbox":[208,174,996,190]}
+{"kind":"textbox","id":"sh/25wvy54r","slide":3,"text":"页面采用有意义的视觉表达","textPreview":"页面采用有意义的视觉表达","textChars":12,"textLines":1,"bbox":[76,396,812.16,90]}
+{"kind":"textbox","id":"sh/3q5cralc","slide":3,"text":"包括数据、关键数字、时间线、图片与图解。","textPreview":"包括数据、关键数字、时间线、图片与图解。","textChars":20,"textLines":1,"bbox":[685.12,494,518.88,110]}
+{"kind":"shape","id":"sh/g3udwfml","slide":3,"bbox":[76,578,485.04,5]}
+{"kind":"textbox","id":"sh/h4nup036","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"image","id":"im/p0zu9kni","slide":3,"name":"","geometry":"rect","alt":"页面采用有意义的视觉表达","bbox":[96,208,52,52]}
+{"kind":"notes","id":"nt/s788qz","slide":3,"text":""}
+{"kind":"slide","id":"sl/e30ol0","slide":4,"title":"内容与设计沿着同一条工作流推进","textShapes":14}
+{"kind":"shape","id":"sh/1sfy1kni","slide":4,"bbox":[76,36,112,5]}
+{"kind":"textbox","id":"sh/epozq5o7","slide":4,"text":"内容与设计沿着同一条工作流推进","textPreview":"内容与设计沿着同一条工作流推进","textChars":15,"textLines":1,"bbox":[76,96,1128,86]}
+{"kind":"shape","id":"sh/zqxgza5s","slide":4,"bbox":[109.84,326,1060.32,3]}
+{"kind":"shape","id":"sh/of6hwf69","slide":4,"bbox":[109.84,298,58,58]}
+{"kind":"textbox","id":"sh/9gzipknu","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[109.84,315,58,22]}
+{"kind":"textbox","id":"sh/mtozu5o3","slide":4,"text":"理解","textPreview":"理解","textChars":2,"textLines":1,"bbox":[76,392,258,58]}
+{"kind":"textbox","id":"sh/nexg3a5o","slide":4,"text":"识别受众、目标与核心结论","textPreview":"识别受众、目标与核心结论","textChars":12,"textLines":1,"bbox":[76,462,254,116]}
+{"kind":"shape","id":"sh/wjqh0z65","slide":4,"bbox":[391.84,298,58,58]}
+{"kind":"textbox","id":"sh/xkzit4nq","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[391.84,315,58,22]}
+{"kind":"textbox","id":"sh/5s3yxob2","slide":4,"text":"规划","textPreview":"规划","textChars":2,"textLines":1,"bbox":[358,392,258,58]}
+{"kind":"textbox","id":"sh/4ruxojuh","slide":4,"text":"建立叙事弧与逐页大纲","textPreview":"建立叙事弧与逐页大纲","textChars":10,"textLines":1,"bbox":[358,462,254,116]}
+{"kind":"shape","id":"sh/3qlwvetw","slide":4,"bbox":[673.84,298,58,58]}
+{"kind":"textbox","id":"sh/ipcfm9cb","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[673.84,315,58,22]}
+{"kind":"textbox","id":"sh/dwny1oby","slide":4,"text":"构图","textPreview":"构图","textChars":2,"textLines":1,"bbox":[640,392,258,58]}
+{"kind":"textbox","id":"sh/svexsjud","slide":4,"text":"选择页面形态和视觉资产","textPreview":"选择页面形态和视觉资产","textChars":11,"textLines":1,"bbox":[640,462,254,116]}
+{"kind":"shape","id":"sh/rulgzet8","slide":4,"bbox":[955.84,298,58,58]}
+{"kind":"textbox","id":"sh/qtcfqtcn","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[955.84,315,58,22]}
+{"kind":"textbox","id":"sh/t0jep4bu","slide":4,"text":"验证","textPreview":"验证","textChars":2,"textLines":1,"bbox":[922,392,258,58]}
+{"kind":"textbox","id":"sh/8zaxgzu9","slide":4,"text":"渲染、检查并修正全部页面","textPreview":"渲染、检查并修正全部页面","textChars":12,"textLines":1,"bbox":[922,462,254,116]}
+{"kind":"textbox","id":"sh/k3exwz25","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"notes","id":"nt/e30ol0","slide":4,"text":""}
+{"kind":"slide","id":"sl/ij7bzk","slide":5,"title":"结构化数据直接生成可编辑图表","textShapes":3}
+{"kind":"shape","id":"sh/tc7ipcva","slide":5,"bbox":[76,36,68,5]}
+{"kind":"textbox","id":"sh/69wzuxwj","slide":5,"text":"结构化数据直接生成可编辑图表","textPreview":"结构化数据直接生成可编辑图表","textChars":14,"textLines":1,"bbox":[76,96,1128,86]}
+{"kind":"textbox","id":"sh/7a50n2d4","slide":5,"text":"示例数据，仅用于插件自测","textPreview":"示例数据，仅用于插件自测","textChars":12,"textLines":1,"bbox":[76,184,1128,38]}
+{"kind":"textbox","id":"sh/58nilsvy","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"chart","id":"ch/w3qxofmp","slide":5,"name":"","chartType":"bar","bbox":[76,246,1128,360]}
+{"kind":"notes","id":"nt/ij7bzk","slide":5,"text":""}
+{"kind":"slide","id":"sl/mf93g5","slide":6,"title":"“","textShapes":4}
+{"kind":"shape","id":"sh/r25gjats","slide":6,"bbox":[76,36,68,5]}
+{"kind":"textbox","id":"sh/c3ehcfux","slide":6,"text":"“","textPreview":"“","textChars":1,"textLines":1,"bbox":[76,104,120,130]}
+{"kind":"textbox","id":"sh/d4nylkbi","slide":6,"text":"每一页只保留一个真正需要被记住的视觉中心。","textPreview":"每一页只保留一个真正需要被记住的视觉中心。","textChars":21,"textLines":1,"bbox":[154,180,978,270]}
+{"kind":"shape","id":"sh/e5wzepc3","slide":6,"bbox":[158,476,84,4]}
+{"kind":"textbox","id":"sh/z65gnuto","slide":6,"text":"LIULEI PPT · 视觉生成原则","textPreview":"LIULEI PPT · 视觉生成原则","textChars":19,"textLines":1,"bbox":[262,462,868,66]}
+{"kind":"textbox","id":"sh/0ryhgfu9","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"notes","id":"nt/mf93g5","slide":6,"text":""}
+{"kind":"slide","id":"sl/8pu26f","slide":7,"title":"OUTPUT","textShapes":4}
+{"kind":"shape","id":"sh/bitsfedo","slide":7,"bbox":[76,36,112,5]}
+{"kind":"shape","id":"sh/cj298ju9","slide":7,"bbox":[76,154,10,350]}
+{"kind":"textbox","id":"sh/xkbahovu","slide":7,"text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[120,152,360,28]}
+{"kind":"textbox","id":"sh/ylkratcf","slide":7,"text":"最终交付不是图片，而是可以继续编辑的 PPTX","textPreview":"最终交付不是图片，而是可以继续编辑的 PPTX","textChars":23,"textLines":1,"bbox":[120,216,1048,190]}
+{"kind":"textbox","id":"sh/zmtsjyd0","slide":7,"text":"保留文字、表格、图表与演讲者备注，并附带完整质量检查。","textPreview":"保留文字、表格、图表与演讲者备注，并附带完整质量检查。","textChars":27,"textLines":1,"bbox":[120,444,968,100]}
+{"kind":"textbox","id":"sh/knmtc3ul","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,688,34,15]}
+{"kind":"notes","id":"nt/8pu26f","slide":7,"text":""}

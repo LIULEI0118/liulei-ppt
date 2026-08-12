@@ -1,0 +1,78 @@
+{
+  "title": "LIULEI PPT",
+  "subtitle": "从内容到可编辑演示文稿",
+  "audience": "需要快速制作专业演示文稿的团队",
+  "goal": "说明插件如何把材料转化为结构清晰、风格统一且经过检查的 PPTX",
+  "language": "zh-CN",
+  "aspectRatio": "16:9",
+  "approved": true,
+  "sources": [],
+  "slides": [
+    {
+      "layout": "title",
+      "role": "opening",
+      "eyebrow": "LIULEI PPT",
+      "title": "把零散材料变成有说服力的演示文稿",
+      "body": "先理清叙事，再选择风格，最后交付可编辑 PPTX",
+      "notes": "说明演示目标和受众。"
+    },
+    {
+      "layout": "hero-image",
+      "role": "show visual system",
+      "eyebrow": "VISUAL SYSTEM",
+      "title": "风格不止换色，而要重组画面",
+      "body": "网格、主次、媒体尺度和页面节奏共同定义设计语言。",
+      "imagePath": "../ui/plugin-icon.png",
+      "imageAlt": "LIULEI PPT 视觉标识",
+      "imagePosition": "right"
+    },
+    {
+      "layout": "metric",
+      "role": "state visual target",
+      "eyebrow": "VISUAL RHYTHM",
+      "title": "让视觉承担信息，而不是装饰信息",
+      "metricValue": "50–70%",
+      "metricLabel": "页面采用有意义的视觉表达",
+      "body": "包括数据、关键数字、时间线、图片与图解。",
+      "iconPath": "../icons/target.png"
+    },
+    {
+      "layout": "timeline",
+      "role": "explain workflow",
+      "title": "内容与设计沿着同一条工作流推进",
+      "steps": [
+        { "label": "01", "title": "理解", "body": "识别受众、目标与核心结论" },
+        { "label": "02", "title": "规划", "body": "建立叙事弧与逐页大纲" },
+        { "label": "03", "title": "构图", "body": "选择页面形态和视觉资产" },
+        { "label": "04", "title": "验证", "body": "渲染、检查并修正全部页面" }
+      ]
+    },
+    {
+      "layout": "chart",
+      "role": "show editable data",
+      "title": "结构化数据直接生成可编辑图表",
+      "body": "示例数据，仅用于插件自测",
+      "chart": {
+        "type": "bar",
+        "categories": ["内容", "设计", "检查"],
+        "series": [
+          { "name": "完成度", "values": [92, 88, 96] }
+        ]
+      }
+    },
+    {
+      "layout": "quote",
+      "role": "design principle",
+      "title": "视觉原则",
+      "quote": "每一页只保留一个真正需要被记住的视觉中心。",
+      "attribution": "LIULEI PPT · 视觉生成原则"
+    },
+    {
+      "layout": "closing",
+      "role": "resolve",
+      "eyebrow": "OUTPUT",
+      "title": "最终交付不是图片，而是可以继续编辑的 PPTX",
+      "body": "保留文字、表格、图表与演讲者备注，并附带完整质量检查。"
+    }
+  ]
+}

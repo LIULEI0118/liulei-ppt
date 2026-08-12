@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LIULEI PPT content plan",
+  "type": "object",
+  "required": ["title", "audience", "goal", "language", "aspectRatio", "slides"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": "string" },
+    "audience": { "type": "string", "minLength": 1 },
+    "goal": { "type": "string", "minLength": 1 },
+    "language": { "type": "string", "minLength": 1 },
+    "aspectRatio": { "enum": ["16:9", "4:3"] },
+    "approved": { "type": "boolean" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "slides": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "role", "layout"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "role": { "type": "string", "minLength": 1 },
+          "silhouette": { "type": "string", "minLength": 1 },
+          "visualBrief": { "type": "string", "minLength": 1 },
+          "assetPrompt": { "type": "string" },
+          "highlight": { "type": "string" },
+          "layout": {
+            "enum": ["title", "section", "statement", "bullets", "two-column", "chart", "table", "hero-image", "metric", "quote", "timeline", "closing"]
+          },
+          "eyebrow": { "type": "string" },
+          "body": { "type": "string" },
+          "bullets": { "type": "array", "items": { "type": "string" } },
+          "leftTitle": { "type": "string" },
+          "leftBody": { "type": "string" },
+          "rightTitle": { "type": "string" },
+          "rightBody": { "type": "string" },
+          "imagePath": { "type": "string" },
+          "imageAlt": { "type": "string" },
+          "imagePosition": { "enum": ["left", "right", "full"] },
+          "iconPath": { "type": "string" },
+          "metricValue": { "type": "string" },
+          "metricLabel": { "type": "string" },
+          "quote": { "type": "string" },
+          "attribution": { "type": "string" },
+          "steps": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 5,
+            "items": {
+              "type": "object",
+              "required": ["title"],
+              "properties": {
+                "label": { "type": "string" },
+                "title": { "type": "string" },
+                "body": { "type": "string" }
+              }
+            }
+          },
+          "chart": {
+            "type": "object",
+            "properties": {
+              "type": { "enum": ["bar", "line", "pie", "doughnut"] },
+              "categories": { "type": "array", "items": { "type": "string" } },
+              "series": { "type": "array" }
+            }
+          },
+          "table": {
+            "type": "object",
+            "properties": {
+              "values": { "type": "array", "items": { "type": "array" } }
+            }
+          },
+          "sourceRefs": { "type": "array", "items": { "type": "string" } },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

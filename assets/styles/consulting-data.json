@@ -1,0 +1,34 @@
+{
+  "id": "consulting-data",
+  "name": "咨询数据",
+  "description": "现代咨询叙事为主，以荧光绿、黑白强对比和年度报告式数据页面强化结论与行动。",
+  "approvedDirection": "2+5，以现代咨询为主",
+  "colors": {
+    "background": "#F5F5F2",
+    "surface": "#E7E7E2",
+    "text": "#101010",
+    "muted": "#666660",
+    "primary": "#C9FF3D",
+    "secondary": "#111111",
+    "accent": "#C9FF3D",
+    "border": "#D1D1CB"
+  },
+  "fonts": { "heading": "Arial", "body": "Arial" },
+  "type": { "deckTitle": 64, "slideTitle": 39, "subhead": 23, "body": 16, "caption": 9 },
+  "layout": { "marginX": 58, "marginTop": 42, "marginBottom": 40, "gutter": 24 },
+  "composition": {
+    "grid": "executive-modular",
+    "titleMode": "oversized-conclusion",
+    "mediaMode": "evidence-first",
+    "density": "high",
+    "dominantScale": 0.70,
+    "pageSilhouettes": ["photo-band-cover", "lime-summary", "black-performance", "action-radar"]
+  },
+  "assets": {
+    "photography": "credible executive or workplace documentary photography with cool neutral grade",
+    "icons": "minimal black or lime circular markers; use diagrams only when they encode decisions",
+    "imagePromptStyle": "realistic editorial business photography, candid leadership interaction, no staged stock-photo gestures"
+  },
+  "treatments": { "radius": 8, "motif": "lime-band", "chart": "black-lime-focus", "table": "executive-dense" },
+  "avoid": ["McKinsey-style red top rules", "ornamental infographics", "many equal cards", "charts without an explicit highlighted insight"]
+}
