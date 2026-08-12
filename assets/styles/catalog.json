@@ -1,0 +1,52 @@
+{
+  "styles": [
+    {
+      "id": "business-minimal",
+      "name": "商务极简",
+      "direction": "瑞士编辑式商务系统",
+      "profile": "./business-minimal.json",
+      "sample": "./business-minimal-approved.pptx",
+      "preview": "./business-minimal-approved-preview/montage.png"
+    },
+    {
+      "id": "consulting-data",
+      "name": "咨询数据",
+      "direction": "2+5，以现代咨询为主",
+      "profile": "./consulting-data.json",
+      "sample": "./consulting-data-approved.pptx",
+      "preview": "./consulting-data-approved-preview/montage.png"
+    },
+    {
+      "id": "tech-dark",
+      "name": "科技深色",
+      "direction": "1+5",
+      "profile": "./tech-dark.json",
+      "sample": "./tech-dark-approved.pptx",
+      "preview": "./tech-dark-approved-preview/montage.png"
+    },
+    {
+      "id": "fresh-creative",
+      "name": "清新创意",
+      "direction": "1+3",
+      "profile": "./fresh-creative.json",
+      "sample": "./fresh-creative-approved.pptx",
+      "preview": "./fresh-creative-approved-preview/montage.png"
+    },
+    {
+      "id": "academic-report",
+      "name": "学术报告",
+      "direction": "3+4",
+      "profile": "./academic-report.json",
+      "sample": "./academic-report-approved.pptx",
+      "preview": "./academic-report-approved-preview/montage.png"
+    },
+    {
+      "id": "editorial-premium",
+      "name": "高端杂志",
+      "direction": "2+5",
+      "profile": "./editorial-premium.json",
+      "sample": "./editorial-premium-approved.pptx",
+      "preview": "./editorial-premium-approved-preview/montage.png"
+    }
+  ]
+}

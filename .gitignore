@@ -1,0 +1,78 @@
+# Dependencies and local runtime workspaces
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+.venv/
+venv/
+
+# Caches, coverage and logs
+.cache/
+coverage/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Secrets and local environment overrides
+.env
+.env.*
+!.env.example
+
+# Generated task output at the repository root
+/outputs/
+/output/
+/generated/
+/dist/
+/tmp/
+/temp/
+/.tmp/
+/work/
+/workspace/
+
+# Generated renders and QA artifacts at the repository root
+/preview/
+/previews/
+/*-preview/
+/renders/
+/qa/
+/qa-preview/
+/template-inspect/
+/template-starter-preview/
+/template-starter-layout/
+/reference-preview/
+/final-preview/
+/qa-report.json
+/qa-report-*.json
+*.qa-report.json
+*.layout.json
+*.inspect.ndjson
+
+# These layout/inspection records are part of the bundled visual fixtures.
+!assets/styles/*-preview/*.layout.json
+!assets/styles/*.pptx.inspect.ndjson
+
+# Accidental root-level deck/workflow artifacts
+/*.pptx
+/content-plan.json
+/source-notes.txt
+/style-profile.json
+/template-frame-map.json
+/template-starter.manifest.json
+
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Bundled profiles, sample PPTX files, approved previews and example assets
+# under assets/ are intentionally not ignored.
