@@ -1,0 +1,34 @@
+{
+  "id": "business-minimal",
+  "name": "商务极简",
+  "description": "瑞士编辑网格、暖白底、信号红与黑色建筑摄影，强调秩序、阅读路径和管理层可信度。",
+  "approvedDirection": "瑞士编辑式商务系统",
+  "colors": {
+    "background": "#F2F0EA",
+    "surface": "#FFFFFF",
+    "text": "#111111",
+    "muted": "#6B6964",
+    "primary": "#F04438",
+    "secondary": "#151515",
+    "accent": "#F04438",
+    "border": "#C9C5BC"
+  },
+  "fonts": { "heading": "Arial", "body": "Arial" },
+  "type": { "deckTitle": 62, "slideTitle": 40, "subhead": 24, "body": 17, "caption": 9 },
+  "layout": { "marginX": 72, "marginTop": 52, "marginBottom": 48, "gutter": 28 },
+  "composition": {
+    "grid": "twelve-column-swiss",
+    "titleMode": "indexed-spine",
+    "mediaMode": "monochrome-architecture",
+    "density": "medium",
+    "dominantScale": 0.64,
+    "pageSilhouettes": ["indexed-cover", "split-thesis", "evidence-chart", "monochrome-hero"]
+  },
+  "assets": {
+    "photography": "high-contrast black-and-white architecture or workplace detail",
+    "icons": "thin geometric line icons in black or signal red",
+    "imagePromptStyle": "precise architectural geometry, editorial crop, hard directional light, restrained monochrome"
+  },
+  "treatments": { "radius": 0, "motif": "editorial-spine", "chart": "evidence-black-red", "table": "swiss-ruled" },
+  "avoid": ["blue corporate gradients", "rounded dashboard cards", "small decorative photos", "generic handshake imagery"]
+}
