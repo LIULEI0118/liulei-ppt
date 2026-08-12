@@ -1,0 +1,38 @@
+{
+  "id": "editorial-premium",
+  "name": "高端杂志",
+  "description": "瑞士建筑编辑网格与黑白先锋摄影，以尺度、留白和裁切形成高级感，不依赖黑金装饰。",
+  "approvedDirection": "2+5",
+  "designReferences": [
+    "https://www.behance.net/gallery/55074183/ArtChitecture-Editorial-Design",
+    "https://www.behance.net/gallery/196865893/ELIOT-Fashion-Editorial-Magazine"
+  ],
+  "colors": {
+    "background": "#F2EFE9",
+    "surface": "#FFFFFF",
+    "text": "#111111",
+    "muted": "#77736D",
+    "primary": "#E64A3B",
+    "secondary": "#111111",
+    "accent": "#E64A3B",
+    "border": "#CFCAC1"
+  },
+  "fonts": { "heading": "Arial", "body": "Arial" },
+  "type": { "deckTitle": 68, "slideTitle": 42, "subhead": 24, "body": 16, "caption": 9 },
+  "layout": { "marginX": 54, "marginTop": 42, "marginBottom": 38, "gutter": 28 },
+  "composition": {
+    "grid": "architectural-editorial",
+    "titleMode": "oversized-crop",
+    "mediaMode": "avant-garde-monochrome",
+    "density": "low",
+    "dominantScale": 0.74,
+    "pageSilhouettes": ["photographic-cover", "typographic-grid", "fashion-split", "object-editorial"]
+  },
+  "assets": {
+    "photography": "high-contrast black-and-white architecture, fashion forms or sculptural objects with hard light",
+    "icons": "normally none; if necessary use tiny index marks or hairline symbols",
+    "imagePromptStyle": "black-and-white editorial photography, brutalist architecture or sculptural fashion form, hard light, deep shadow, generous negative space"
+  },
+  "treatments": { "radius": 0, "motif": "editorial-grid", "chart": "monochrome-red-note", "table": "magazine-index" },
+  "avoid": ["black-and-gold luxury clichés", "serif wedding aesthetics", "rounded cards", "multiple small photos", "decorative metallic gradients"]
+}
